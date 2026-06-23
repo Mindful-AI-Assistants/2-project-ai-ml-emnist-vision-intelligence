@@ -6,7 +6,7 @@
 <br><br>
 
 
-#  <p align="center"> 2- 🧠 [Machine Learning]() / [EMNIST Vision Intelligence Project]()
+#  <p align="center"> 2- 🧠 [AI /ML - Project 1]() / [EMNIST Vision Intelligence Project]()
 ### <p align="center"> Deep Learning Pipeline for Handwritten Character Recognition with PyTorch and Streamlit
 
 
