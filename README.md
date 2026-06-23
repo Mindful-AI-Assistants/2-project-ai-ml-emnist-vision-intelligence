@@ -112,7 +112,7 @@
 
 
 <!-- ========= START NOTE ========= -->
-> [!NOTE]
+> [!WARNING]
 >
 > ⚠️ Projects may be publicly shared when permitted.  
 > The focus is on applied, hands-on learning with real datasets in AI governance and security contexts.  
