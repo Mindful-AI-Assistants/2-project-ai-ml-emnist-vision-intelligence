@@ -5,13 +5,21 @@
 
 <br><br>
 
+#  <p align="center">🧠 AI/ML Project 1 · EMNIST Vision Intelligence Project</p>
 
-#  <p align="center"> 2- 🧠 [AI /ML - Project 1]() / [EMNIST Vision Intelligence Project]()
 ### <p align="center">End-to-End Handwritten Character Recognition System with PyTorch and Streamlit</p>
 
-
 <br><br>
+
 <!-- ========= END REPO TITLE ========= -->
+
+#### <p align="center">✨ <i>Somewhere between scribbles and intelligence, this model takes shape.</i> ✨</p>
+
+<p align="center">
+<b>AI reading handwriting — confidence not guaranteed.</b> ⚡️
+</p>
+
+<br>
 
 
 <br><br>
