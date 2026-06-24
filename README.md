@@ -138,13 +138,23 @@
 >
 > #
 >
-> ✨ Part of the *Humanistic AI & Data Modeling Series*
-> 
-> *Teaching machines to recognize patterns while developers learn patience debugging the exceptions.* 
+> ### 🚁 Related Project in this Series
+>
+> **AI/ML Project 2 · Computer Vision · Helipoint Detector**
+>
+> Explore the complementary geospatial intelligence system focused on satellite-based helipad detection:
+>
+> 🔗 [**Helipoint Detector — Computer Vision Project**](https://github.com/Mindful-AI-Assistants/3-project-ai-ml-yolo-helipoint-detector)
+>
+> #
+>
+> ✨ Part of the *Humanistic AI & Machine Learning Series*
+>
+> *Teaching machines to recognize patterns while humans fine-tune both models and patience.* ⚡️
 
 <br><br><br><br>
 <!-- ========= END Main Repo REFERENCE  ========= -->
-<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
+
 
 
 ## Table of Contents
