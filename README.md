@@ -7,7 +7,7 @@
 
 
 #  <p align="center"> 2- 🧠 [AI /ML - Project 1]() / [EMNIST Vision Intelligence Project]()
-### <p align="center"> Deep Learning Pipeline for Handwritten Character Recognition with PyTorch and Streamlit
+### <p align="center">End-to-End Handwritten Character Recognition System with PyTorch and Streamlit</p>
 
 
 <br><br>
@@ -58,13 +58,14 @@
 <!-- ========= END DATA ANALYSING REPORT ========= -->
 
 
+<!-- ======================================= Institutional INFO =========================================== -->
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP) — FACEI  
+[**Course:**]() BSc in Humanistic AI & Data Science — 5th semester — 2026  
+[**Subject:**]() Machine Learning for Handwritten Character Recognition  
+[**Project:**]() P1 — EMNIST Vision Intelligence Project  
 
-<!-- ======================================= Start nstitucional INFO ===========================================  -->
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
-[**School:**]() Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
-**Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
-**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>  <br>
+**Professor:** [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  
+**Authors:** [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Pedro Vyctor Almeida](https://www.linkedin.com/in/pedro-vyctor-almeida-285b89273/) 
 
 <br><br>
 <!-- ========= END Institucional INFO ========= -->
