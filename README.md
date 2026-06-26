@@ -73,7 +73,9 @@
 [**Project:**]() P1 — EMNIST Vision Intelligence Project  
 
 **Professor:** [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  
-**Authors:** [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [✨ Pedro Vyctor Almeida](https://www.linkedin.com/in/pedro-vyctor-almeida-285b89273/) 
+**Authors:** 
+- [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) 
+- [Pedro Vyctor Almeida](https://www.linkedin.com/in/pedro-vyctor-almeida-285b89273/) 
 
 <br><br>
 <!-- ========= END Institucional INFO ========= -->
